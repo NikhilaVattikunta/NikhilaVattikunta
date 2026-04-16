@@ -1,4 +1,4 @@
-# Hi, I'm Nikhila Vattikunta 👋
+Hi, I'm Nikhila Vattikunta 👋
 
 🎓 M.Tech Student  
 💻 Java Developer  
@@ -6,7 +6,7 @@
 
 ---
 
-## Skills
+ Skills
 - Java
 - Data Structures
 - OOP
@@ -14,11 +14,11 @@
 
 ---
 
-## Currently Working On
+ Currently Working On
 - Linked List Implementation
 - Placement Preparation
 
 ---
 
-## Contact
+ Contact
 Email: vattikuntanikhilasree05@gmail.com
